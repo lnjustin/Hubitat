@@ -1,0 +1,12 @@
+{
+  "author": "Justin Leonard",
+  "gitHubUrl": "https://github.com/lnjustin",
+  "packages": [
+    {
+      "name": "Rachio Community",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/lnjustin/Rachio-Community/master/packageManifest.json",
+      "description": "Rachio Community Package"
+    }
+  ]
+}
