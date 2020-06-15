@@ -12,7 +12,7 @@
       "name": "Conditional Image Server",
       "category": "Convenience",
       "location": "https://raw.githubusercontent.com/lnjustin/Conditional-Image-Server/master/packageManifest.json",
-      "description": "Serve omages from hub based upon conditions"
+      "description": "Serve images from hub based upon conditions"
     }
   ]
 }
