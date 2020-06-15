@@ -8,5 +8,11 @@
       "location": "https://raw.githubusercontent.com/lnjustin/Rachio-Community/master/packageManifest.json",
       "description": "Rachio Community Package"
     }
+    {
+      "name": "Conditional Image Server",
+      "category": "Convenience",
+      "location": "https://raw.githubusercontent.com/lnjustin/Conditional-Image-Server/master/packageManifest.json",
+      "description": "Serve omages from hub based upon conditions"
+    }
   ]
 }
