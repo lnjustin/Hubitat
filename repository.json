@@ -6,13 +6,21 @@
       "name": "Rachio Community",
       "category": "Integrations",
       "location": "https://raw.githubusercontent.com/lnjustin/Rachio-Community/master/packageManifest.json",
-      "description": "Rachio Community Package"
+      "description": "Rachio Community Package",
+      "tags": [
+        "Irrigation"
+      ]
     },
     {
       "name": "Conditional Image Server",
       "category": "Convenience",
       "location": "https://raw.githubusercontent.com/lnjustin/Conditional-Image-Server/master/packageManifest.json",
-      "description": "Serve images from hub based upon conditions"
+      "description": "Serve images from hub based upon conditions",
+      "tags": [
+        "Dashboards",
+        "Multimedia",
+        "Tools & Utilities"
+      ]
     }
   ]
 }
