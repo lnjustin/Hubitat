@@ -21,6 +21,17 @@
         "Multimedia",
         "Tools & Utilities"
       ]
+    },
+    {
+      "name": "Dynamic Image Switcher",
+      "category": "Convenience",
+      "location": "https://raw.githubusercontent.com/lnjustin/Dynamic-Image-Switcher/main/packageManifest.json",
+      "description": "Switch Dashboard Background Image based on configured conditions",
+      "tags": [
+        "Dashboards",
+        "Multimedia",
+        "Tools & Utilities"
+      ]
     }
   ]
 }
