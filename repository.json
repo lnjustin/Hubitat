@@ -32,6 +32,17 @@
         "Multimedia",
         "Tools & Utilities"
       ]
+    },
+    {
+      "name": "GameTime",
+      "category": "Convenience",
+      "location": "https://raw.githubusercontent.com/lnjustin/GameTime/main/packageManifest.json",
+      "description": "Follow and automate based on the schedules of your favorite college and professional sports teams",
+      "tags": [
+        "Dashboards",
+        "Multimedia",
+        "Tools & Utilities"
+      ]
     }
   ]
 }
