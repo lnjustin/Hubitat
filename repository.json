@@ -43,6 +43,17 @@
         "Multimedia",
         "Tools & Utilities"
       ]
-    }
+    },
+    {
+      "name": "Lift Off",
+      "category": "Convenience",
+      "location": "https://raw.githubusercontent.com/lnjustin/Lift-Off/main/packageManifest.json",
+      "description": "Follow and automate based on the Space-X launch schedule",
+      "tags": [
+        "Dashboards",
+        "Multimedia",
+        "Tools & Utilities"
+      ]
+    }    
   ]
 }
