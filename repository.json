@@ -41,7 +41,7 @@
       "tags": [
         "Dashboards",
         "Multimedia",
-        "Tools & Utilities"
+        "Health & Fitness"
       ]
     },
     {
@@ -54,6 +54,18 @@
         "Multimedia",
         "Tools & Utilities"
       ]
-    }    
+    },
+    {
+      "name": "Multi-Place",
+      "category": "Convenience",
+      "location": "https://raw.githubusercontent.com/lnjustin/Lift-Off/main/packageManifest.json",
+      "description": "Follow and automate based on the Space-X launch schedule",
+      "tags": [
+        "Vehicles & Transportation",
+        "Sleep",
+        "Presence & Location",
+        "Dashboards"
+      ]
+    }
   ]
 }
