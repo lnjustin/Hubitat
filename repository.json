@@ -59,7 +59,7 @@
       "name": "Multi-Place",
       "category": "Convenience",
       "location": "https://raw.githubusercontent.com/lnjustin/Lift-Off/main/packageManifest.json",
-      "description": "Follow and automate based on the Space-X launch schedule",
+      "description": "Automate based on current traffic conditions from Google Traffic. Use a single dashboard tile to represent your location, no matter where you are.",
       "tags": [
         "Vehicles & Transportation",
         "Sleep",
