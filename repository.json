@@ -58,7 +58,7 @@
     {
       "name": "Multi-Place",
       "category": "Convenience",
-      "location": "https://raw.githubusercontent.com/lnjustin/Multi-Place/main/packageManifest.json",
+      "location": "https://raw.githubusercontent.com/lnjustin/Multi-Place/master/packageManifest.json",
       "description": "Automate based on current traffic conditions from Google Traffic. Use a single dashboard tile to represent your location, no matter where you are.",
       "tags": [
         "Vehicles & Transportation",
