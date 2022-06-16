@@ -66,6 +66,19 @@
         "Presence & Location",
         "Dashboards"
       ]
-    }
+    },
+    {
+      "name": "MowBot Tamer",
+      "category": "Convenience",
+      "location": "https://raw.githubusercontent.com/lnjustin/MowBot-Tamer/main/packageManifest.json",
+      "description": "Tame your robot mower.",
+      "tags": [
+        "Control",
+        "Mowers",
+        "Convenience",
+        "Tools & Utilities",
+        "weather"
+      ]
+    }    
   ]
 }
