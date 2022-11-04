@@ -79,6 +79,15 @@
         "Tools & Utilities",
         "weather"
       ]
+    },
+    {
+      "name": "Meater",
+      "category": "Convenience",
+      "location": "https://raw.githubusercontent.com/lnjustin/Meater/main/packageManifest.json",
+      "description": "Meater Temperature Probes.",
+      "tags": [
+        "Temperature & Humidity"
+      ]
     }    
   ]
 }
