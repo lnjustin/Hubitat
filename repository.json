@@ -88,6 +88,41 @@
       "tags": [
         "Temperature & Humidity"
       ]
+    },
+    {
+      "name": "Meater",
+      "category": "Convenience",
+      "location": "https://raw.githubusercontent.com/lnjustin/Meater/main/packageManifest.json",
+      "description": "Meater Temperature Probes.",
+      "tags": [
+        "Temperature & Humidity"
+      ]
+    },
+    {
+      "name": "Quick Chart",
+      "category": "Dashboards",
+      "location": "https://raw.githubusercontent.com/lnjustin/QuickChart/main/packageManifest.json",
+      "description": "Chart Data Easily",
+      "tags": [
+        "Dashboards",
+        "Energy Monitoring",
+        "Monitoring",
+        "Utility",
+        "Tools & Utilities"
+      ]
+    },
+    {
+      "name": "Withings",
+      "category": "Dashboards",
+      "location": "https://raw.githubusercontent.com/lnjustin/hubitat-withings/master/packageManifest.json",
+      "description": "Withings Integration",
+      "tags": [
+        "Health & Fitness",
+        "Integrations",
+        "Scales",
+        "Sleep",
+        "Temperature & Humidity"
+      ]
     }    
   ]
 }
