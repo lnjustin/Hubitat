@@ -90,15 +90,6 @@
       ]
     },
     {
-      "name": "Meater",
-      "category": "Convenience",
-      "location": "https://raw.githubusercontent.com/lnjustin/Meater/main/packageManifest.json",
-      "description": "Meater Temperature Probes.",
-      "tags": [
-        "Temperature & Humidity"
-      ]
-    },
-    {
       "name": "Quick Chart",
       "category": "Dashboards",
       "location": "https://raw.githubusercontent.com/lnjustin/QuickChart/main/packageManifest.json",
