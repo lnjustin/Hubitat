@@ -114,6 +114,17 @@
         "Sleep",
         "Temperature & Humidity"
       ]
-    }    
+    },
+    {
+      "name": "ReCirc",
+      "category": "Control",
+      "location": "https://github.com/lnjustin/ReCirc/raw/main/packageManifest.json",
+      "description": "Control for hot water recirculation systems",
+      "tags": [
+        "Control",
+        "Water",
+        "Water Heater"
+      ]
+    }        
   ]
 }
