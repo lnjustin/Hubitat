@@ -125,6 +125,17 @@
         "Water",
         "Water Heater"
       ]
-    }        
+    },
+    {
+      "name": "FFL",
+      "category": "Integration",
+      "location": "https://raw.githubusercontent.com/lnjustin/FFL/refs/heads/main/packageManifest.json",
+      "description": "Fantasy Football Integration",
+      "tags": [
+        "Dashboards",
+        "Integration",
+        "Misc. Devices"
+      ]
+    }          
   ]
 }
